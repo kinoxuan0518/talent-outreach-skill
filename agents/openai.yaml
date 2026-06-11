@@ -1,0 +1,6 @@
+interface:
+  display_name: "BlackLake Targeted Talent Hunting"
+  short_description: "Build accurate target maps for priority hiring"
+  default_prompt: "Use $blacklake-targeted-talent-hunting to map candidates around this company, project, paper, or fuzzy talent profile."
+policy:
+  allow_implicit_invocation: true
